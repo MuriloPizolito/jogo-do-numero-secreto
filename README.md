@@ -17,7 +17,7 @@
 <img alt="" src="./img/logobg.png" width="100%">
 <p>
 
-## 🚀 Tecnologia
+## 🚀 Tecnologias
 
 - JavaScript
 - HTML e CSS 
